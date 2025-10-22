@@ -18,8 +18,3 @@ Os dados são salvos em um arquivo `tarefas.json`.
 
 ---
 
-## Como executar
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seuusuario/crud-tarefas.git
-   cd crud-tarefas
